@@ -1,0 +1,4 @@
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\iis\ProjectManager.InterfaceLayer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\iis\ProjectManager.CommonEntities.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\iis\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\iis\ProjectManager.InterfaceLayer.dll

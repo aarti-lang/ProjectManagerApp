@@ -1,0 +1,3 @@
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.CommonEntities\bin\iis\ProjectManager.CommonEntities.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.CommonEntities\obj\iis\ProjectManager.CommonEntities.csprojResolveAssemblyReference.cache
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.CommonEntities\obj\iis\ProjectManager.CommonEntities.dll

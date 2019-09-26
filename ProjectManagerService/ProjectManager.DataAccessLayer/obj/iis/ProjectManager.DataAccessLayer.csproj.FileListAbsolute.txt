@@ -1,0 +1,8 @@
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\ProjectManager.DataAccessLayer.dll.config
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\ProjectManager.DataAccessLayer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\EntityFramework.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\EntityFramework.SqlServer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\EntityFramework.xml
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\iis\EntityFramework.SqlServer.xml
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\iis\ProjectManager.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\iis\ProjectManager.DataAccessLayer.dll

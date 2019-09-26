@@ -1,0 +1,34 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll.config
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.pdb
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll.config
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.pdb
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.xml
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csprojAssemblyReference.cache
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csproj.CopyComplete
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll.config
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.pdb

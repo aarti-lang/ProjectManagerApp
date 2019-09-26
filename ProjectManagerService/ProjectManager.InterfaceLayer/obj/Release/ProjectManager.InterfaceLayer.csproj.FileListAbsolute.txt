@@ -1,0 +1,25 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojAssemblyReference.cache
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csproj.CoreCompileInputs.cache
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csproj.CopyComplete
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\divya\ProjectManagerSPA\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerSPA\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb

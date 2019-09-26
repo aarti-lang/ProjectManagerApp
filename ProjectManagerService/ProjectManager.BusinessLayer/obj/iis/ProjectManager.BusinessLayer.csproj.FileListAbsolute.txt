@@ -1,0 +1,12 @@
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.BusinessLayer.dll.config
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.BusinessLayer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\EntityFramework.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\EntityFramework.SqlServer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.CommonEntities.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.DataAccessLayer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.InterfaceLayer.dll
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\ProjectManager.DataAccessLayer.dll.config
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\EntityFramework.xml
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\bin\iis\EntityFramework.SqlServer.xml
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\obj\iis\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\ProjectManagerSPA\ProjectManagerService\ProjectManager.BusinessLayer\obj\iis\ProjectManager.BusinessLayer.dll
